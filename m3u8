@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:5.000000,
+https://raw.githubusercontent.com/Edea1992/ddaf4269-34a9-4c79-b2ce-a048923d5b1d/main/0
+#EXTINF:11.300000,
+https://raw.githubusercontent.com/Edea1992/ddaf4269-34a9-4c79-b2ce-a048923d5b1d/main/1
+#EXTINF:1.733333,
+https://raw.githubusercontent.com/Edea1992/ddaf4269-34a9-4c79-b2ce-a048923d5b1d/main/2
+#EXTINF:2.900000,
+https://raw.githubusercontent.com/Edea1992/ddaf4269-34a9-4c79-b2ce-a048923d5b1d/main/3
+#EXTINF:1.933333,
+https://raw.githubusercontent.com/Edea1992/ddaf4269-34a9-4c79-b2ce-a048923d5b1d/main/4
+#EXT-X-ENDLIST
